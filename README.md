@@ -1,2 +1,2 @@
-- Мой стэк технологий
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue"/> 
+### Мой стэк технологий
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=FF69B4"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp&logoColor=red"/> <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=red"/> 
